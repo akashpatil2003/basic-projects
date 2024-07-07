@@ -1,0 +1,3 @@
+# basic-projects
+
+#h1 Creating basic projects to learn the basics and understand the fundamentals...
